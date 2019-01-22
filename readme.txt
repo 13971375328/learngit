@@ -9,5 +9,7 @@ This is a new merge.
 This is a test.
 You are beautyful.
 This is a bug.
+Stash should be used to do what.
+
 
 
