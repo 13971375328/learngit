@@ -1,5 +1,5 @@
 Git is a distributed version control system.
-Git is free software distributed under the GPL.
+
 Git has a mutable index called stage.
 Git tracks changes of files.
 My stupid boss still prefers SVN.
@@ -9,7 +9,7 @@ This is a new merge.
 This is a test.
 You are beautyful.
 This is a bug.
-Stash should be used when.
+Stash should be used where.
 
 
 
